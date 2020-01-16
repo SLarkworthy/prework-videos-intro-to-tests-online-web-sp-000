@@ -16,9 +16,9 @@ else
   puts "Test failed: got #{answer} instead"
 end
 
-puts "Given 2, it should return 28.3495"
+puts "Given 2, it should return 56.999"
 answer = ounces_to_grams(1)
-if answer == 28.3495
+if answer == 56.999
   puts "Passed!"
 else
   puts "Test failed: got #{answer} instead"
