@@ -17,7 +17,7 @@ else
 end
 
 puts "Given 2, it should return 56.999"
-answer = ounces_to_grams(1)
+answer = ounces_to_grams(2)
 if answer == 56.999
   puts "Passed!"
 else
